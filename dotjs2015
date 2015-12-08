@@ -46,7 +46,7 @@ From the talks I didn't take any notes as I has trying to understand what they w
 Interesting talks about using this debugging tool on different devices although I didn't get any clear idea of it. The idea is pretty promising as with the current state of mobile debugging is having a device connected to chrome or safari.
 
 ## Vincent Voyer
-### Publishing ES6 Moduls
+### Publishing ES6 Modules
 
 This Lightening talk explained different ways to publish node modules written in es6 to the NPM repository by converting modules to ES5 before publishing.
 
