@@ -36,6 +36,8 @@ My favorite talk along the one from Eric Schoffstall. I was really waiting for t
 
 She showed some of the cool features of HTTP/2 such as more than one request per connection, server push, etc. But she made the focus on another problem: The tools that we currently have doesn't even support HTTP/2 and that is not making the process of the web moving to HTTP/2 faster.
 
+- [Rebecca's HTTP/2 bookmarks](https://pinboard.in/u:rmurphey/t:http2/)
+
 ## Lightening talks
 
 From the talks I didn't take any notes as I has trying to understand what they were saying. There were some sound problems.
