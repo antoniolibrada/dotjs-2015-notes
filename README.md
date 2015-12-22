@@ -52,7 +52,7 @@ Interesting talks about using this debugging tool on different devices although 
 
 This Lightening talk explained different ways to publish node modules written in es6 to the NPM repository by converting modules to ES5 before publishing.
 
-## Nicolas Bevacqua
+## Nicolas Bevacqua [(Slides)](https://speakerdeck.com/bevacqua/practical-es6-for-the-modern-javascript-tinkerer)
 ### ES6 Overview in 350 Bullet Points [(Blog)](https://ponyfoo.com/articles/es6)
 
 I don't have slides about this one but I got a link to his blog where he actually describe the features of the ES6 Syntax which is basically what he did during the talk.
