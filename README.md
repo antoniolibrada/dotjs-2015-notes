@@ -61,8 +61,8 @@ He went through the new syntax JS ES6 introduced on functions, arrow functions a
 
 The topic was not that exciting and in my opinion much of the features were most of the time saving some characters in coding but decreasing readability. Maybe it is because we are not still used to that syntax and in some time will be easier to read and this way
 
-## Andre Medeiros
-### Reactive Javascript
+## André Medeiros [(Slides)](https://speakerdeck.com/staltz/the-whole-future-declared-in-a-var)
+### The whole future declared in a var
 
 Surprising talk on a really unknown topic for me. I was much enjoying the talk trying to get where I could get to use the features he was presenting on a real project example. The community have to keep an eye on this topic. Observables and events streams are a really difficult concept to explain but Andre did it in a interactive way.
 
