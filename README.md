@@ -38,19 +38,32 @@ She showed some of the cool features of HTTP/2 such as more than one request per
 
 - [Rebecca's HTTP/2 bookmarks](https://pinboard.in/u:rmurphey/t:http2/)
 
-## Lightening talks
+## Lightning talks
 
 From the talks I didn't take any notes as I has trying to understand what they were saying. There were some sound problems.
 
-## Etienne Margraff
-### Mobile debugging with VorlonJS [(Slides)](http://fr.slideshare.net/emargraff/dotjs-lightning-talk-vorlonjs)
+### Johannes Fiala
+#### Swagger 
+
+
+### Vincent Voyer
+#### Publishing ES6 Modules [(Slides)](http://slides.com/vvo/authoring-and-publishing-es6-modules-today-dotjs-2015#/)
+
+This Lightning talk explained different ways to publish node modules written in es6 to the NPM repository by converting modules to ES5 before publishing.
+
+### Etienne Margraff
+#### Mobile debugging with VorlonJS [(Slides)](http://fr.slideshare.net/emargraff/dotjs-lightning-talk-vorlonjs)
 
 Interesting talks about using this debugging tool on different devices although I didn't get any clear idea of it. The idea is pretty promising as with the current state of mobile debugging is having a device connected to chrome or safari.
 
-## Vincent Voyer
-### Publishing ES6 Modules
 
-This Lightening talk explained different ways to publish node modules written in es6 to the NPM repository by converting modules to ES5 before publishing.
+### Maxim Salnikov
+#### AngularJS 2 
+
+### Nicolas Grenie
+#### JAWS 
+
+
 
 ## Nicolas Bevacqua [(Slides)](https://speakerdeck.com/bevacqua/practical-es6-for-the-modern-javascript-tinkerer)
 ### ES6 Overview in 350 Bullet Points [(Blog)](https://ponyfoo.com/articles/es6)
